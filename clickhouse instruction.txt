@@ -1,0 +1,3 @@
+How To Install and Use ClickHouse on CentOS 7
+
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-clickhouse-on-centos-7
